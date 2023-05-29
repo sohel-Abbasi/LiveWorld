@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280624128937",
+    "project_id": "live-world-fa139",
+    "storage_bucket": "live-world-fa139.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280624128937:android:11039215a3a4d88a6d1ab8",
+        "android_client_info": {
+          "package_name": "com.example.liveworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280624128937-8tllaamejvui7qgmn2815ppft1vhbduu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx7zT46jhsAd56Ic6uwQ1Tjt5ZsG-eky8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280624128937-8tllaamejvui7qgmn2815ppft1vhbduu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
